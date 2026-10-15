@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f58757fe6bef0681",
+        "id": "d6f944ef385221a7",
         "type": "tabs",
         "children": [
           {
-            "id": "be2588fd685ff3f5",
+            "id": "b603de8afa7513eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Today.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Today"
+              "title": "New tab"
             }
           }
         ]
@@ -185,12 +181,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "be2588fd685ff3f5",
+  "active": "b603de8afa7513eb",
   "lastOpenFiles": [
-    "Plan/Switch&&.md",
+    "timeline.md",
     "Today.md",
-    "Plan/Switch.md",
-    "Plan",
-    "AttachFiles"
+    "DSA/Untitled.md",
+    "WEB",
+    "New folder",
+    "DSA/java_prime_number_algorithm_visualizer_simulator.html",
+    "Untitled.base",
+    "JAVA/1. Basics.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "AttachFiles/java_prime_number_algorithm_visualizer_simulator 1.html",
+    "AttachFiles/java_prime_number_algorithm_visualizer_simulator.html",
+    "htmlcontents",
+    "DSA",
+    "Plan/Switch&&.md",
+    "Plan/Switch.md"
   ]
 }
