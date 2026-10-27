@@ -11,10 +11,14 @@
             "id": "077276222adbc6f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Arrays.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Arrays"
             }
           }
         ]
@@ -80,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "324b57db74d3d08f",
@@ -181,9 +186,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "dca0ac6e6adff979",
+  "active": "077276222adbc6f7",
   "lastOpenFiles": [
     "Design And Architecture/1. OOP & Solid Foundation.md",
+    "DSA/Arrays.md",
+    "DSA/Trees.md",
+    "Core/1. Relational Model and Normalization.md",
+    "DSA/Heap.md",
+    "Core",
     "AttachFiles/Pasted image 20261021142138.png",
     "1. OOP & Solid Foundation.pdf",
     "AttachFiles/Pasted image 20261021141756.png",
@@ -191,7 +201,6 @@
     "Design And Architecture",
     "Untitled.canvas",
     "Untitled.base",
-    "DSA/Trees.md",
     "AttachFiles/Pasted image 20261020190002.png",
     "DSA",
     "Reference web app Screenflow Demo.md",
@@ -211,7 +220,6 @@
     "Tracker/data",
     "Tracker/package.json",
     "Tracker/public/app.js",
-    "Tracker/public/styles.css",
     "Plan/Switch&& 1.md",
     "temp.md"
   ]
