@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55299e696bbb7237",
+        "id": "5da11cb63f8eb3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "077276222adbc6f7",
+            "id": "1ce06ef180a20f2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Arrays.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "New tab"
             }
           }
         ]
@@ -84,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 322.3000183105469
   },
   "right": {
     "id": "324b57db74d3d08f",
@@ -186,18 +181,24 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "077276222adbc6f7",
+  "active": "1ce06ef180a20f2e",
   "lastOpenFiles": [
+    "claude.md",
+    "Core/1. java language & collections/2. primitive boxing and numbers.md",
+    "Core/1. java language & collections/1. java platform and toolchain.md",
     "Design And Architecture/1. OOP & Solid Foundation.md",
-    "DSA/Arrays.md",
+    "JAVA/1. Basics.md",
+    "Core/archive/1. Relational Model and Normalization.md",
+    "Core/archive",
+    "Core/archive.md",
+    "Core/1. java language & collections",
     "DSA/Trees.md",
-    "Core/1. Relational Model and Normalization.md",
+    "DSA/Arrays.md",
     "DSA/Heap.md",
     "Core",
     "AttachFiles/Pasted image 20261021142138.png",
     "1. OOP & Solid Foundation.pdf",
     "AttachFiles/Pasted image 20261021141756.png",
-    "JAVA/1. Basics.md",
     "Design And Architecture",
     "Untitled.canvas",
     "Untitled.base",
@@ -218,8 +219,6 @@
     "Tracker/data/dsa.json",
     "Tracker/data/core.json",
     "Tracker/data",
-    "Tracker/package.json",
-    "Tracker/public/app.js",
     "Plan/Switch&& 1.md",
     "temp.md"
   ]
