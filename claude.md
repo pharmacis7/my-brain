@@ -13,7 +13,7 @@ When I give a topic name and point to a file, write notes on that topic into tha
 - **Easy to read**: clear headings, short sections, bold for key words, `---` between big sections, and nothing longer than a few lines without a break.
 
 ## Headings
-- Do not write a main `# Title` heading at the top of a note. Obsidian already shows the file name as the title, so a `# Title` that repeats it is a duplicate.
-- Start the note directly with the sections. The top-level sections use `#` (what would have been `##`).
+- append the existing notes file being pointed 
+- write a main `# Title` heading the end of existing notes. 
 - Shift every deeper level up by one too: `###` → `##`, `####` → `###`, so the hierarchy has no gaps.
 - `#` lines inside code blocks (shell comments etc.) are not headings — leave them as they are.

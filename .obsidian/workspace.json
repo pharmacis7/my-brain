@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5da11cb63f8eb3b1",
+        "id": "bd8e18df2c36391a",
         "type": "tabs",
         "children": [
           {
-            "id": "1ce06ef180a20f2e",
+            "id": "dc8c669fb53dd1ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Today.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Today"
             }
           }
         ]
@@ -80,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.3000183105469
+    "width": 284.70001220703125
   },
   "right": {
     "id": "324b57db74d3d08f",
@@ -181,17 +185,23 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "1ce06ef180a20f2e",
+  "active": "dc8c669fb53dd1ab",
   "lastOpenFiles": [
-    "claude.md",
-    "Core/1. java language & collections/2. primitive boxing and numbers.md",
-    "Core/1. java language & collections/1. java platform and toolchain.md",
+    "Practice java.md",
+    "Today.md",
     "Design And Architecture/1. OOP & Solid Foundation.md",
+    "claude.md",
+    "Core/java language & collections.md",
+    "ApiContract.pdf",
+    "temp.md",
+    "Core/archive/1. java language and collections.md",
+    "Core/archive/1. java language & collections/2. primitive boxing and numbers.md",
+    "Core/archive/1. java language & collections/1. java platform and toolchain.md",
     "JAVA/1. Basics.md",
     "Core/archive/1. Relational Model and Normalization.md",
     "Core/archive",
     "Core/archive.md",
-    "Core/1. java language & collections",
+    "Core/archive/1. java language & collections",
     "DSA/Trees.md",
     "DSA/Arrays.md",
     "DSA/Heap.md",
@@ -215,11 +225,7 @@
     "RoadmapCore.md",
     "RoadmapBackendEngineering.md",
     "RoadmapAIResilientEngineering.md",
-    "Tracker/README.md",
     "Tracker/data/dsa.json",
-    "Tracker/data/core.json",
-    "Tracker/data",
-    "Plan/Switch&& 1.md",
-    "temp.md"
+    "Tracker/data/core.json"
   ]
 }
