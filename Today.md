@@ -1,4 +1,4 @@
 - [ ] make the otp architecture work on the dev env
 - [ ] read the otp architecture and why it is best optimized 
-- [ ] read all the backend functions and every spring boot nuances used in the otp architecture and mark them done in roadmap 
+- [ ] read all the backend functions and every spring boot nuances used in the otp architecture, take notes and mark them done in roadmap 
 - [ ] complete the practice java set 
